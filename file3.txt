@@ -1,0 +1,6 @@
+About GitHub Collabration.
+
+GitHub Collaboration allows multiple people to work on the same repository by sharing access and managing roles.
+
+It supports teamwork through features like branches, pull requests, reviews, 
+and issue tracking to keep changes organized and transparent.
